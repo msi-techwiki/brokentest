@@ -1,1 +1,2 @@
-# A place for the Marine Science Institute's public facing documentation. 
+# MSIdocs
+A place for the Marine Science Institute's public facing documentation. 
