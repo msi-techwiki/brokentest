@@ -8,7 +8,7 @@ remote_theme: vsoch/docsy-jekyll
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marine Science Institute Documentation
+title: MSI Documentation
 email: help@msi.ucsb.edu
 author: MSI IT Department
 description: > # this means to ignore newlines until "baseurl:"
