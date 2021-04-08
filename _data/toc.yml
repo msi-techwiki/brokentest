@@ -1,0 +1,43 @@
+- title: Documentation
+  links:
+    - title: "Getting Started"
+      url: "getting-started"
+      children:
+        - title: Training
+          url: "getting-started#training"
+        - title: Consultation
+          url: "getting-started#consult"
+        - title: Budgeting
+          url: "getting-started#budgeting"
+        - title: Procuring an Account
+          url: "getting-started#procurement"
+    - title: "Guidelines"
+      url: "docs/guidelines"
+      children:
+        - title: Description
+          url: "docs/guidelines/description"
+        - title: Networking
+          url: "docs/guidelines/networking"
+        - title: Tagging
+          url: "docs/guidelines/tagging"
+        - title: Compliance
+          url: "docs/guidelines/compliance"
+        - title: Security
+          url: "docs/guidelines/security"
+    - title: "Best Practices"
+      url: "docs/bestpractices"
+      children:
+        - title: First Steps
+          url: "docs/bestpractices/firststeps"
+        - title: Service Catalog
+          url: "docs/bestpractices/servicecatalog"
+        - title: Account Contacts
+          url: "docs/bestpractices/contacts"
+        - title: Cost Models
+          url: "docs/bestpractices/costmodels"
+        - title: Resource Tagging
+          url: "docs/bestpractices/tagging"
+        - title: VPN Traffic
+          url: "docs/bestpractices/vpn"
+    - title: "Glossary"
+      url: "glossary"
