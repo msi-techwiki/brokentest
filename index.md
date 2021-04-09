@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Marine Science Institute Landing Page"
+title: "Marine Science Institute Docs - Home"
 permalink: /
 ---
 
