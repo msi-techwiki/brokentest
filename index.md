@@ -4,17 +4,13 @@ title: "Marine Science Institute Landing Page"
 permalink: /
 ---
 
-### About
+### Welcome
 
-This is an about section. Most of this stuff is written in kramdown which is basically just markdown but for Ruby. 
+The Information Technology Services group at MSI maintains a complex Information Technology (IT) environment, and offers a number of services for administration and research.  ITS is actively supporting ongoing research projects emphasizing geospatial data, data collection and archiving, and computational analysis. These projects rely on significant cooperation and integration with outside organizations. We work within an environment of 40+ virtualized servers, a variety of databases, and Terabytes of network attached storage. Operating systems include OS X, Windows, and varieties of Linux.
 
-#### FAQ
-When you make changes to main it takes a little bit of time to update on the main page of the website. It's not instantaneous. 
+#### Getting Started
 
-
-### Getting Started
-
-Here.
+Use the pulldown bar on the left to navigate to the page that you want. 
 
 ### Questions/Contact
 
