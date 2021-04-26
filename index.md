@@ -14,4 +14,4 @@ Use the pulldown bar on the left to navigate to the page that you want.
 
 ### Questions/Contact
 
-Contact Info
+Email: help@msi.ucsb.edu    Phone: (805) 893-7145    Office: 4009 Marine Science Building
