@@ -1,16 +1,16 @@
 - title: Documentation
   links:
-    - title: "Getting Started"
-      url: "getting-started"
+    - title: "Services"
+      url: "Services"
       children:
         - title: Training
-          url: "getting-started#training"
+          url: "Services#training"
         - title: Consultation
-          url: "getting-started#consult"
+          url: "Services#consult"
         - title: Budgeting
-          url: "getting-started#budgeting"
+          url: "Services#budgeting"
         - title: Procuring an Account
-          url: "getting-started#procurement"
+          url: "Services#procurement"
     - title: "Guidelines"
       url: "docs/guidelines"
       children:
