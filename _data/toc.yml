@@ -3,8 +3,8 @@
     - title: "Services"
       url: "Services"
       children:
-        - title: Training
-          url: "Services#training"
+        - title: Client Support
+          url: "Services#support"
         - title: Consultation
           url: "Services#consult"
         - title: Budgeting
