@@ -1,39 +1,42 @@
 ---
 layout: page
-title: "Getting Started"
-permalink: /getting-started/
+title: "Services"
+permalink: /Services/
 tags:
- - cloud
- - aws
- - azure
- - gcp
- - github
+ - mailing lists
+ - servers
+ - storage
+ - client support
+ - web hosting
 ---
 
-# Getting Started
+# Services
 
-The UCSB Campus Cloud allows faculty, researchers and staff to provision and use computing resources from approved vendors that have agreements in place with the University of California.
+Here is a list of services that the Marine Science Institute offers to faculty, researchers and staff. 
 
-For public cloud hosting, an approved provider is Amazon Web Services (AWS).
-Using an approved provider means that:
+## [Client Support](#support)
 
-*   You have access to account management and solution architects — AWS staff who can assist with how to use AWS, and provide technical guidance on best practices.
-*   Your vendor relationship falls under the University of California Terms & Conditions. This ensures that your agreement conforms to the UC Regents’ policies for procurement and business contracts, and reduces the financial risk to your department or division for agreements that are outside of Regental standing orders (especially with respect to third-party liability).
+MSI ITS provides client support for those who are in MSI network spaces. This includes the Marine Science Building, the MSI Trailers, and the Love Lab. If you are not in one of those locations, your primary support will come from the department that is running your network. There is currently no charge for this service.
 
-## [Training and Consultation](#training)
+Please see the Documentation section for tutorials, hints, tips, and faqs.
 
-It is highly recommended to have an understanding of Cloud environment concepts and methodologies. Specifically, the [Well Architected Framework](https://aws.amazon.com/architecture/well-architected/) and
-the [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/).
+Please use the HelpDesk to request client support.
 
-### Campus Training Resources
+### UCSB Connect - Communication, Calendaring & Collaboration Service
 
-*   The UCSB [Learning Center](https://www.learningcenter.ucsb.edu/) and more specifically, [Linkedin Learning](https://www.learningcenter.ucsb.edu/content/linkedin-learning) offers courses for Cloud Computing and AWS.
-*   [Cloud Computing Topic](https://www.linkedin.com/learning/topics/cloud-computing-5)
-*   [AWS Courses](https://www.linkedin.com/learning/search?keywords=aws)
+Connect is UCSB’s new communication and collaboration service. The core communication components include e-mail, calendaring, contacts, tasks, and mailing lists — with more to come as we expand. The collaboration suite is based on Microsoft’s Office365 platform and is hosted in "the cloud".
 
-### AWS Training Resources
+MSI ITS provides tier 1 support. Assisting in the account activation, and basic setup and configuration of email clients.
 
-*   Take the free [Cloud Practitioners Training](https://www.aws.training/Details/Curriculum?id=27076)
+Currently, only the Email service has been implemented.
+
+### Mailing Lists
+
+MSI maintains a set of email lists to provide a way to communicate with the MSI community.
+
+There are the building lists to alert users to location specific issues such as water or power outages. There is the MSI-News list which people can use as a general forum. Finally, there is the Currents mailing list, which hosts the MSI newsletter.
+
+The General Lists:
 
 ### [Consultation](#consult)
 
