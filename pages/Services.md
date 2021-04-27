@@ -34,6 +34,8 @@ Currently, only the Email service has been implemented.
 
 MSI maintains a set of email lists to provide a way to communicate with the MSI community.
 
+MSI no longer hosts these mailing lists in-house. Instead, we host these mailing lists through Google Groups. If you would like to be added to one of the Google Groups, please send a request through the MSI IT Help Desk. 
+
 There are the building lists to alert users to location specific issues such as water or power outages. There is the MSI-News list which people can use as a general forum. Finally, there is the Currents mailing list, which hosts the MSI newsletter.
 
 The General Lists:
